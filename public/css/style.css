@@ -150,7 +150,8 @@
         font-size: 80px !important;
         color: #5CD3F4;
     }
-    
+
+        
     .header-extradiv {
         width: 100%;
         margin: 100px auto;
@@ -230,6 +231,7 @@
     box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     transition: 0.3s ease;
+    margin-bottom: 10px;
 }
 
 .box:hover{
@@ -406,7 +408,7 @@ form:hover  .form-button button {
 }
 
 .portfolio-item{
-	/*width:100%;*/
+	width:100%;
 }
 .portfolio-item .item{
 	/*width:303px;*/
@@ -548,3 +550,6 @@ form:hover  .form-button button {
 .slick-arrow.slick-hidden {
     display: none;
 }
+
+
+
